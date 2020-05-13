@@ -1,1 +1,1 @@
-This boilerplate contains a good standard configuration with Parcel/ESLint/Prettier for starting React projects from scratch.
+This boilerplate contains a good standard configuration with Parcel/ESLint/Prettier for starting React projects from scratch. Feel free to use.
